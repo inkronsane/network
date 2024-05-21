@@ -39,5 +39,4 @@ function testTaskScheduler() {
   console.log("Total duration:", totalDuration);
 }
 
-// Запуск тесту
 testTaskScheduler();
